@@ -9,7 +9,7 @@ ___
 ### [C++ Raytracer 💡](https://github.com/MyUsernamee/Raytracer)
 _Simple Raytracer writen in C++_ 
 
-![Render](https://github.com/MyUsernamee/Raytracer/raw/master/renders/saturatedmapper.png)
+![Render](https://github.com/MyUsernamee/Raytracer/blob/master/renders/saturatedmapper_downscale.png?raw=true)
 ___
 ### [Simple Survival **WIP**](https://github.com/MyUsernamee/simple_survival)
 _Simple Survival Game written in C++ with no game engine and only raylib_
