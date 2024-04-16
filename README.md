@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MyUsernamee/MyUsernamee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **MyUsername** (Delano Leslie) and I am a current student in computer science. I have some experience mostly from writing projects for fun.
 
-Here are some ideas to get you started:
+## ✨ Star Projects ✨
+_These are some projects I may currently be working on or have finished._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+### [C++ Raytracer 💡](https://github.com/MyUsernamee/Raytracer)
+_Simple Raytracer writen in C++_ 
+
+![Render](https://github.com/MyUsernamee/Raytracer/raw/master/renders/saturatedmapper.png)
+___
+### [Simple Survival **WIP**](https://github.com/MyUsernamee/simple_survival)
+_Simple Survival Game written in C++ with no game engine and only raylib_
+___
